@@ -69,4 +69,3 @@ I've been used to doing a lot of secure networks, data protection, robust infras
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
